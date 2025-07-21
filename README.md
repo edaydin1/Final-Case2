@@ -1,3 +1,7 @@
+#DRİVE LİNKİ BURADADIR LÜTFEN BAKINIZ BOYUTU BÜYÜK YÜKLENMİYOR
+https://drive.google.com/file/d/1HhlBRiRq8xCUtTsXNk1GBY_EU9STQL8f/view?usp=sharing
+
+
 1. Rapor Yapısı
 ✅ 1.1. Giriş Sayfası
 Bu sayfada aşağıdaki özet metrikler kartlar şeklinde sunulur:
@@ -96,3 +100,13 @@ Görsel: Kategorilere göre toplam ciroyu gösteren ağaç haritası
 Kullanıcı yalnızca giriş sayfasını görür.
 
 Diğer perspektifler (Özet, Müşteri, Kategori) arka planda otomatik yönlendirme ile açılır.
+
+#GÖRSELLER
+<img width="1464" height="814" alt="image" src="https://github.com/user-attachments/assets/1c57dba5-61ae-4c71-aa04-54cb52e12077" />
+<img width="1480" height="835" alt="image" src="https://github.com/user-attachments/assets/b825854c-6e7b-4f06-bd58-ff157967c1c3" />
+<img width="1464" height="843" alt="image" src="https://github.com/user-attachments/assets/f401470f-2f3a-451c-9329-2329f8ddf07c" />
+<img width="1477" height="824" alt="image" src="https://github.com/user-attachments/assets/3473980a-b0f8-4f8e-825c-4224379983b6" />
+
+
+
+
